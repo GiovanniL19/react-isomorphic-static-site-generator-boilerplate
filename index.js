@@ -15,12 +15,12 @@ import { useScroll } from 'react-router-scroll'
 import DocumentMeta from 'react-document-meta'
 
 // Pages
-import App from './src/App';
-import About from './src/pages/About';
-import Products from './src/pages/Products';
-import ProductDetail from './src/pages/ProductDetail';
+import App from './src/App'
+import About from './src/pages/About'
+import Products from './src/pages/Products'
+import ProductDetail from './src/pages/ProductDetail'
 
-import data from './src/exampleData/ProductData';
+import data from './src/exampleData/ProductData'
 
 const HTML = require('./html.js').default
 
