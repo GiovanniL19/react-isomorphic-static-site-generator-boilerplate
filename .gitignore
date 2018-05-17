@@ -1,5 +1,5 @@
 node_modules
-public/react-isomorphic-static-site-generator-boilerplate/*
-!public/react-isomorphic-static-site-generator-boilerplate/.gitkeep
+public/*
+!public/.gitkeep
 .DS_Store
 
